@@ -10,8 +10,8 @@ In order to move forward to the next part of the competition you must demonstrat
 * Modern Backend API Framework 
     * **BONUS** Swagger Documentation
 * Modern Frontend Web Application Framework
-    * 3 user stories providing basic functionality
-    * **BONUS** 2 user stories providing a search for product resource names
+    * 2 user stories providing basic Create/Read functionality
+    * **BONUS** 1 user story providing Update functionality
 * Basic Documentation on how to effortlessly run your solution components on a local development machine
     * This includes basic npm or docker commands required to have your solution stood up on **any** workstation
     * **ASSUMPTIONS!** The marking panel for this assignment will have basic development tools installed on their workstations such as node, npm, docker. If your solution requires any other frameworks or languages to be present on a workstation in order for your solution to work, please provide basic instructions on how to install your tech stack before trying to build and run your web application.
@@ -192,9 +192,8 @@ The following tables will be provided to you via email after marking of your sol
 |                         | * Appropriate naming of components, elements, classes, etc.                                                            |
 |                         | * Basic error handling when interacting with API (ex// API is not present or healthy)                                  |
 |                         | * Basic commenting of your solution                                                                                    | 
-|                         | * Utilizes API to perform required GET, PUT, POST or DELETE actions when required (3 of 4 CRUD actions is acceptable)  |
+|                         | * Utilizes API to perform required GET, PUT, POST or DELETE actions when required (2 of 4 CRUD actions is acceptable)  |
 |                         | * Acceptance criteria for User Story 1 is complete                                                                     |
 |                         | * Acceptance criteria for User Story 2 is complete                                                                     |
-|                         | * Acceptance criteria for User Story 3 is complete                                                                     |
-|                         | * **BONUS** Acceptance criteria for User Story 4 is complete                                                           |
+|                         | * **BONUS** Acceptance criteria for User Story 3 is complete                                                           |
 | Fail/Unacceptable       | * More than one requirement of Pass/Acceptable are not met (bonus user stories excluded)                               |
